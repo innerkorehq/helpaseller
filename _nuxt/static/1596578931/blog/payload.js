@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog", (function(a,b){return {data:[{posts:[{toc:[],body:{type:"root",children:[]},dir:"\u002Fen\u002Fblog",path:"\u002Fen\u002Fblog\u002Findex",extension:".md",slug:"index",createdAt:b,updatedAt:b,readingTime:{text:"0 min read",minutes:a,time:a,words:a}}]}],fetch:[],mutations:[]}}(0,"2020-08-04T19:29:58.842Z")));

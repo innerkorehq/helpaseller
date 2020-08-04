@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/tools", (function(a){return {data:[{links:{}},{langFallback:void 0,path:"\u002Fen\u002Ftools",section:"tools",page:[],prev:a,next:a,contributors:[]}],fetch:[],mutations:[]}}(null)));
